@@ -1,0 +1,2 @@
+# funksjoner
+Introduksjon til funksjoner
